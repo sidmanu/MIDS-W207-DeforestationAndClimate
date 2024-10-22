@@ -45,13 +45,5 @@ The LSTM model outperformed all others, providing the most accurate temperature 
 - **Broaden Geographic Scope**: Extend model predictions to other regions.
 - **Collaborate with Experts**: Work with climatologists to enhance model performance and address the complexity of predictions.
 
-## How to Run the Project 🔧
-1. **Clone the Repo**:
-   ```
-   git clone https://github.com/your-username/predicting-tahoe-temperature.git
-   ```
-2. **Run the Notebooks**:
-3. **Explore the PDF report**
-
 ## License ⚖️
 This project is licensed under the MIT License.
