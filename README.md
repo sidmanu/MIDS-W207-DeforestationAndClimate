@@ -1,5 +1,5 @@
 # DeforestationAndClimate
-We built a time-series model to predict temperature and other weather data for Tahoe, based on past weather data and global deforestation data. 
+As part of our Applied Machine Learning coursework, we did a project to build time-series models to predict temperature and other weather data for Tahoe, based on past weather data and global deforestation data. We explored various regression models like - Linear Regression, NN regressor, ARIMA, XGBoost regressor and LSTM and compared them. 
 
 # Important datasets
 
